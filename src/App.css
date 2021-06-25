@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.heading{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.image-viewer{
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#osd{
+  width: 600px;
+  height: 400px;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.inner {
+  margin: 5px;
+  padding: 5px;
+}
+
+.shapeList {
+  margin-bottom: 5px;
+  list-style: none;
+}
+
+.shapeList li {
+  display: flex;
+  justify-content: center;
+}
